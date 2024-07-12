@@ -18,12 +18,13 @@ Throughout my academic journey, I have engaged in various projects that have hel
 
 - **Simple & Scientific Calculator:** Developed a versatile calculator with both simple and scientific functionalities.
 - **Guess the Number Game:** Created an interactive game to guess the randomly generated number.
-- **Simple Alarm Clock:** Built a functional alarm clock application.
-- **Hangman Game Using Python:** Designed and implemented the classic Hangman game.
-- **QR Generator:** Developed a tool to generate QR codes.
-- **QR Scanner:** Created an application to scan and decode QR codes.
+- **Game like Cricket:** Created an interactive game to make runs while playing with computer.
+- **Analog Clock:** Built a functional analog clock application.
+- **Tic Tac Toe:** Created an interactive game to play with computer.
 - **Game: Rock, Paper, Scissors:** Implemented the popular game using Python.
 - **Personal Portfolio Website:** Designed and developed a personal portfolio website to showcase my work and skills.
+- **QR Generator:** Developed a tool to generate QR codes.
+- **QR Scanner:** Created an application to scan and decode QR codes.
 
 ## Skills
 
